@@ -1,5 +1,5 @@
 -- exercise 7-b
--- b) Delmismomunicipio, consulte las fincas con altitud entre 1600 y 1800 m.s.n.m.
+-- b) Del mismo municipio, consulte las fincas con altitud entre 1600 y 1800 m.s.n.m.
  --(BETWEEN), ordenadas por vereda (ascendente) y luego por ´area (descendente).
  SELECT *
 FROM farm.farms AS T1
