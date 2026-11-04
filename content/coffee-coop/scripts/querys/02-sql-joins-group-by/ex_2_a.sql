@@ -13,32 +13,32 @@ WHERE T1.municipality_code = '54518';
 /**
   document  |    first_name     |     last_name      |       farm
 ------------+-------------------+--------------------+------------------
- 1061690671 | Guillermo Pedro   | Arias Rodr├¡guez    | La Selva
- 712758473  | Wilson            | L├│pez Villamizar   | El Silencio
- 134410171  | Orlando           | Salazar Berm├║dez   | El Diamante
- 870240973  | Jairo             | Molina Pab├│n       | El Recuerdo
- 727945493  | Gloria            | Mar├¡n Rivera       | La Esperanza
- 549054771  | Mar├¡a             | Burbano Duarte     | El Nogal
- 549054771  | Mar├¡a             | Burbano Duarte     | La Divisa
+ 1061690671 | Guillermo Pedro   | Arias Rodríguez    | La Selva
+ 712758473  | Wilson            | López Villamizar   | El Silencio
+ 134410171  | Orlando           | Salazar Bermúdez   | El Diamante
+ 870240973  | Jairo             | Molina Pabón       | El Recuerdo
+ 727945493  | Gloria            | Marín Rivera       | La Esperanza
+ 549054771  | María             | Burbano Duarte     | El Nogal
+ 549054771  | María             | Burbano Duarte     | La Divisa
  622105662  | Alejandra         | Molina Torres      | La Carolina
  622105662  | Alejandra         | Molina Torres      | La Cristalina
  622105662  | Alejandra         | Molina Torres      | Villa Rosa
- 437443011  | Juli├ín            | Pe├▒a Betancur      | Los Arrayanes
+ 437443011  | Julián            | Peña Betancur      | Los Arrayanes
  356207226  | Luisa             | Caicedo Restrepo   | El Brillante
  356207226  | Luisa             | Caicedo Restrepo   | La Cascada
- 578947645  | Mario             | Uribe Cu├®llar      | El Porvenir
- 578947645  | Mario             | Uribe Cu├®llar      | La Primavera
+ 578947645  | Mario             | Uribe Cuéllar      | El Porvenir
+ 578947645  | Mario             | Uribe Cuéllar      | La Primavera
  24999630   | Esperanza         | Romero Betancur    | El Oasis
  24999630   | Esperanza         | Romero Betancur    | La Florida
- 914044314  | Anc├¡zar Cristian  | Polan├¡a Delgado    | Los Arrayanes
- 358946393  | Carmen            | C├írdenas Moreno    | El Horizonte
- 358946393  | Carmen            | C├írdenas Moreno    | El Porvenir
- 358946393  | Carmen            | C├írdenas Moreno    | La Esperanza
- 358946393  | Carmen            | C├írdenas Moreno    | La Primavera
- 811782754  | Nicol├ís           | Gonz├ílez Rodr├¡guez | El Guayabo
- 463842401  | Roc├¡o             | ├ülvarez C├írdenas   | Bellavista
- 463842401  | Roc├¡o             | ├ülvarez C├írdenas   | El Encanto
- 463842401  | Roc├¡o             | ├ülvarez C├írdenas   | La Cumbre
- 343256743  | Dora              | Hern├índez Correa   | Cafetal Viejo
+ 914044314  | Ancízar Cristian  | Polanía Delgado    | Los Arrayanes
+ 358946393  | Carmen            | Cárdenas Moreno    | El Horizonte
+ 358946393  | Carmen            | Cárdenas Moreno    | El Porvenir
+ 358946393  | Carmen            | Cárdenas Moreno    | La Esperanza
+ 358946393  | Carmen            | Cárdenas Moreno    | La Primavera
+ 811782754  | Nicolás           | González Rodríguez | El Guayabo
+ 463842401  | Rocío             | Álvarez Cárdenas   | Bellavista
+ 463842401  | Rocío             | Álvarez Cárdenas   | El Encanto
+ 463842401  | Rocío             | Álvarez Cárdenas   | La Cumbre
+ 343256743  | Dora              | Hernández Correa   | Cafetal Viejo
 -- Más  --
 **/
